@@ -1,3 +1,3 @@
 # WeatherApp
-api call 
+api call (Accuweather)
 HTML, CSS, JavaScript
